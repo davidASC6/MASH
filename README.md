@@ -1,1 +1,3 @@
 # MASH
+
+Fun mash game!
